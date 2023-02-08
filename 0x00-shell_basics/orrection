@@ -1,0 +1,105 @@
+ome checks are failing. Make sure you fix them before starting a new review
+
+You got this!
+
+ 
+
+Result:
+
+Commit used:
+
+URL: Click here
+
+ID: f1452f53b4d42b9e016ca500c8e14bd91a02d0bd
+
+Author: edna
+
+Subject: 13-symbolic_link
+
+Date: 2023-02-08 13:23:34 -0800
+
+Check 0Check 1Check 2Check 3Check 4Check 5
+
+Hide details
+
+
+
+You have access to the full output of the Checker - Use it with reason!
+
+
+
+File is present
+
+
+
+Start by #!/bin/bash
+
+
+
+/tmp/correction/8274592784162170814499336766254189873368_5/205/246838/0x00-shell_basics/13-symbolic_link doesn't contain ^#!/bin/bash
+
+Must be 2 lines long
+
+
+
+You are not allowed to use backticks, &&, || or ;
+
+
+
+Correct output
+
+
+
+ome checks are failing. Make sure you fix them before starting a new review
+
+You got this!
+
+ 
+
+Result:
+
+Commit used:
+
+URL: Click here
+
+ID: f1452f53b4d42b9e016ca500c8e14bd91a02d0bd
+
+Author: edna
+
+Subject: 13-symbolic_link
+
+Date: 2023-02-08 13:23:34 -0800
+
+Check 0Check 1Check 2Check 3Check 4Check 5
+
+Hide details
+
+
+
+You have access to the full output of the Checker - Use it with reason!
+
+
+
+File is present
+
+
+
+Start by #!/bin/bash
+
+
+
+/tmp/correction/8274592784162170814499336766254189873368_5/205/246838/0x00-shell_basics/13-symbolic_link doesn't contain ^#!/bin/bash
+
+Must be 2 lines long
+
+
+
+You are not allowed to use backticks, &&, || or ;
+
+
+
+Correct output
+
+
+
+Script runs without error
