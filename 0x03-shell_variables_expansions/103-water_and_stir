@@ -1,2 +1,9 @@
 #!/bin/bash
-echo $(printf %o $(($((5#$(echo $WATER | tr 'water' '01234'))) * $((5#$(echo $STIR | 'stir.' '01234'))))) | tr '01234567' 'bestchol')
+
+
+
+result_int=$((5#${WATER//water/01234} * 5#${STIR//stir./01234}))
+
+echo $result_int | tr '01234567' 'bestchol'
+
+
